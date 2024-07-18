@@ -7,7 +7,7 @@ The paper wins over the stone , The stone wins over the scissor , The scissor wi
 #include <iostream>
 using namespace std;
 
-/******************************************************************/
+/*********************************************************************/
 enum players {
     User = 0 ,
     Computer ,
